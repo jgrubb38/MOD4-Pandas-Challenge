@@ -1,8 +1,8 @@
 # MOD4-Pandas-Challenge
-Student:  Jennifer Grubb
-Instructor:  Steven Greene
-Bootcamp:  DU-VIRT-DATA-PT-06-2023
-22 July 2023
+Student:  Jennifer Grubb  
+Instructor:  Steven Greene  
+Bootcamp:  DU-VIRT-DATA-PT-06-2023  
+22 July 2023  
 
 ## Table of Contents
 - [About](#about)
